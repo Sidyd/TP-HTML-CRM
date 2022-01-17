@@ -1,0 +1,31 @@
+label {
+    display: inline-block;
+    text-align: left;
+    width: 140px;
+    margin: left;
+
+}
+
+table {
+    border: 1px ;
+    width: 750px;
+
+}
+
+tr {
+    border: solid red;
+}
+  
+th {
+    border: 1px solid blue;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+
+}
+thead {
+    background-color: cyan;
+
+
+
+}
